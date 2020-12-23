@@ -16,6 +16,6 @@
 		}
 	],
   "url": "https://www.patreon.com/thegoblinexplorer",
-  "download": "https://drive.google.com/uc?export=view&id=1k2f3NVZF1HRe6dMnayNKInwRRoVQgJPu",
-  "manifest": "https://drive.google.com/uc?export=view&id=1Grrbth3N-UJ1shW_brh6y14vinq-jRiw",
+  "download": "https://github.com/TheGoblinExplorer/endless-dungeon-foundryvtt/raw/master/thegoblinexplorer-endless-dungeon.zip",
+  "manifest": "https://raw.githubusercontent.com/TheGoblinExplorer/endless-dungeon-foundryvtt/master/module.json"
 }
